@@ -1,0 +1,9 @@
+F:\TianYaShare\TianYa.DotNetShare.Solution\TianYa.DotNetShare.Repository\bin\Debug\TianYa.DotNetShare.Repository.dll
+F:\TianYaShare\TianYa.DotNetShare.Solution\TianYa.DotNetShare.Repository\bin\Debug\TianYa.DotNetShare.Repository.pdb
+F:\TianYaShare\TianYa.DotNetShare.Solution\TianYa.DotNetShare.Repository\bin\Debug\TianYa.DotNetShare.Model.dll
+F:\TianYaShare\TianYa.DotNetShare.Solution\TianYa.DotNetShare.Repository\bin\Debug\TianYa.DotNetShare.Model.pdb
+F:\TianYaShare\TianYa.DotNetShare.Solution\TianYa.DotNetShare.Repository\obj\Debug\TianYa.DotNetShare.Repository.csprojAssemblyReference.cache
+F:\TianYaShare\TianYa.DotNetShare.Solution\TianYa.DotNetShare.Repository\obj\Debug\TianYa.DotNetShare.Repository.csproj.CoreCompileInputs.cache
+F:\TianYaShare\TianYa.DotNetShare.Solution\TianYa.DotNetShare.Repository\obj\Debug\TianYa.DotNetShare.Repository.csproj.CopyComplete
+F:\TianYaShare\TianYa.DotNetShare.Solution\TianYa.DotNetShare.Repository\obj\Debug\TianYa.DotNetShare.Repository.dll
+F:\TianYaShare\TianYa.DotNetShare.Solution\TianYa.DotNetShare.Repository\obj\Debug\TianYa.DotNetShare.Repository.pdb

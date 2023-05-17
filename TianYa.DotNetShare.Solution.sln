@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TianYa.DotNetShare.MvcDemo", "TianYa.DotNetShare.MvcDemo\TianYa.DotNetShare.MvcDemo.csproj", "{BD2F2BD0-23E5-4C29-A1BE-C4EAB56EA0F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TianYa.DotNetShare.Model", "TianYa.DotNetShare.Model\TianYa.DotNetShare.Model.csproj", "{6337EA5A-552E-4854-B1D6-2CF379403BDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TianYa.DotNetShare.Repository", "TianYa.DotNetShare.Repository\TianYa.DotNetShare.Repository.csproj", "{CEBBE0C0-2E46-4AA2-ADF4-211BB51F5B0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TianYa.DotNetShare.Service", "TianYa.DotNetShare.Service\TianYa.DotNetShare.Service.csproj", "{EC429A95-3735-41BD-A4E3-BD8E4D4B6C29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TianYa.DotNetShare.WebDemo", "TianYa.DotNetShare.WebDemo\TianYa.DotNetShare.WebDemo.csproj", "{43F5B126-8533-4B82-9AA0-E74219A12CCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD2F2BD0-23E5-4C29-A1BE-C4EAB56EA0F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD2F2BD0-23E5-4C29-A1BE-C4EAB56EA0F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD2F2BD0-23E5-4C29-A1BE-C4EAB56EA0F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD2F2BD0-23E5-4C29-A1BE-C4EAB56EA0F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6337EA5A-552E-4854-B1D6-2CF379403BDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6337EA5A-552E-4854-B1D6-2CF379403BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6337EA5A-552E-4854-B1D6-2CF379403BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6337EA5A-552E-4854-B1D6-2CF379403BDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEBBE0C0-2E46-4AA2-ADF4-211BB51F5B0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEBBE0C0-2E46-4AA2-ADF4-211BB51F5B0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEBBE0C0-2E46-4AA2-ADF4-211BB51F5B0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEBBE0C0-2E46-4AA2-ADF4-211BB51F5B0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC429A95-3735-41BD-A4E3-BD8E4D4B6C29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC429A95-3735-41BD-A4E3-BD8E4D4B6C29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC429A95-3735-41BD-A4E3-BD8E4D4B6C29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC429A95-3735-41BD-A4E3-BD8E4D4B6C29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43F5B126-8533-4B82-9AA0-E74219A12CCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43F5B126-8533-4B82-9AA0-E74219A12CCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43F5B126-8533-4B82-9AA0-E74219A12CCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43F5B126-8533-4B82-9AA0-E74219A12CCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8B0D861-9C07-4AD6-8207-C178C195A4E8}
+	EndGlobalSection
+EndGlobal
